@@ -1,0 +1,9 @@
+# Fichiers qui ne seront pas push
+
+obj/*.o
+*.exe
+main
+
+# Dossiers qui ne seront pas push
+
+obj/
